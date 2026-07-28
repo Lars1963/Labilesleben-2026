@@ -1,0 +1,222 @@
+/* Saubere Basisversion – Phase 1: Textlayout ohne Hero-Bild */
+
+:root {
+  --text: #2b2b2b;
+  --muted: #666;
+  --line: #dedbd4;
+  --paper: #fffdf9;
+  --accent: #7a2f2f;
+  --accent-dark: #5f2222;
+  --page-width: 74rem;
+  --text-width: 63ch;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  color: var(--text);
+  background: var(--paper);
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 0.8rem;
+  line-height: 1.5;
+}
+
+a {
+  color: inherit;
+}
+
+.skip-link {
+  position: absolute;
+  left: 0.5rem;
+  top: -5rem;
+  z-index: 1000;
+
+  padding: 0.25rem 0.4rem;
+
+  color: var(--accent);
+  background: var(--paper);
+  text-decoration: underline;
+}
+
+.skip-link:focus,
+.skip-link:focus-visible {
+  top: 0.5rem;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--line);
+}
+
+.main-nav {
+  width: min(calc(100% - 3rem), var(--page-width));
+  margin-inline: auto;
+  padding-block: 1.15rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem 2rem;
+}
+
+.main-nav a {
+  padding-block: 0.25rem;
+  color: #3c3c3c;
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+}
+
+.main-nav a:hover,
+.main-nav a:focus-visible,
+.main-nav a[aria-current="page"] {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+.site-main {
+  min-height: 65vh;
+}
+
+.page-shell {
+  width: min(calc(100% - 3rem), var(--text-width));
+  margin-inline: auto;
+  padding-block: 3rem 4rem;
+}
+
+.page-intro {
+  margin-bottom: 1.2rem;
+}
+
+h1,
+h2 {
+  line-height: 1.25;
+}
+
+h1 {
+  margin: 0;
+  font-size: 1.5rem;
+  letter-spacing: -0.02em;
+}
+
+.subtitle {
+  margin: 0.4rem 0 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.prose p {
+  margin: 0 0 1.1rem;
+}
+
+.prose h2 {
+  margin: 2.25rem 0 0.75rem;
+  font-size: 1.4rem;
+}
+
+.download-box {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--line);
+}
+
+.download-box h2 {
+  margin: 0 0 0.5rem;
+  font-size: 1.35rem;
+}
+
+.download-box p {
+  margin: 0 0 1rem;
+}
+
+.download-button {
+  display: inline-block;
+  padding: 0.75rem 1rem;
+  border-radius: 0.35rem;
+  color: #fff;
+  background: var(--accent);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.download-button:hover,
+.download-button:focus-visible {
+  background: var(--accent-dark);
+}
+
+.hero {
+  width: 100%;
+  margin: 0 0 2rem;
+  margin-inline: 0;
+}
+
+.hero img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 0.35rem;
+}
+
+.hero-caption {
+  margin-top: 0.6rem;
+  text-align: center;
+}
+
+.hero-quote {
+  display: block;
+  font-style: italic;
+  color: var(--muted);
+  font-size: 0.75rem;
+}
+
+.hero-location {
+  display: block;
+  margin-top: 0.15rem;
+  color: var(--muted);
+  font-size: 0.68rem;
+}
+
+.hero-location strong {
+  font-weight: 600;
+}
+
+.site-footer {
+  width: min(calc(100% - 3rem), var(--page-width));
+  margin-inline: auto;
+  padding-block: 1.5rem 2.25rem;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
+.site-footer nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem 1.5rem;
+}
+
+.site-footer a {
+  text-decoration: none;
+}
+
+.site-footer a:hover,
+.site-footer a:focus-visible {
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  .main-nav {
+    justify-content: flex-start;
+    gap: 0.5rem 1.2rem;
+  }
+
+  .page-shell {
+    padding-block: 1.75rem 3rem;
+  }
+}

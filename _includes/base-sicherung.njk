@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ description or 'Labiles Leben – Reflexionen über Trauma, Depression und Narzissmus. Ein autobiographischer Essay.' }}">
+  <title>{% if title and title != 'Labiles Leben' %}{{ title }} | {% endif %}Labiles Leben</title>
+  <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#inhalt">Zum Inhalt springen</a>
+
+  <header class="site-header">
+    <nav class="main-nav" aria-label="Hauptnavigation">
+      <a href="/"{% if page.url == '/' %} aria-current="page"{% endif %}>Start</a>
+      <a href="/warum-dieser-essay/"{% if page.url == '/warum-dieser-essay/' %} aria-current="page"{% endif %}>Warum dieser Essay?</a>
+      <a href="/fuer-wen/"{% if page.url == '/fuer-wen/' %} aria-current="page"{% endif %}>Für wen?</a>
+      <a href="/ueber-mich/"{% if page.url == '/ueber-mich/' %} aria-current="page"{% endif %}>Über mich</a>
+    </nav>
+  </header>
+
+  <main id="inhalt" class="site-main">
+    <article class="page-shell">
+      <header class="page-intro">
+        <h1>{{ title }}</h1>
+
+        {% if subtitle %}
+          <p class="subtitle">{{ subtitle | safe }}</p>
+        {% endif %}
+      </header>
+
+    {% if heroImage %}
+      <figure class="hero">
+        <img
+          src="{{ heroImage }}"
+          alt="{{ heroAlt }}"
+    >
+
+      <figcaption class="hero-caption">
+        <span class="hero-quote">
+          {{ heroQuote }}
+        </span>
+        <span class="hero-location">
+          <strong>{{ heroCountry }}</strong> – {{ heroLocation }}
+        </span>
+    </figcaption>
+  </figure>
+{% endif %}
+
+      <div class="prose">
+        {{ content | safe }}
+      </div>
+
+      {% if page.url == '/' %}
+        <aside class="download-box" aria-label="Essay herunterladen">
+          <div>
+            <h2>Den Essay lesen</h2>
+            <p>Der vollständige Essay wird hier kostenlos als PDF angeboten.</p>
+          </div>
+          <a class="download-button" href="/downloads/labiles-leben.pdf" download>PDF herunterladen</a>
+        </aside>
+      {% endif %}
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <nav aria-label="Rechtliches und Kontakt">
+      <a href="/kontakt/">Kontakt</a>
+      <a href="/impressum/">Impressum</a>
+      <a href="/datenschutz/">Datenschutz</a>
+      <span class="copyright">© Labiles Leben 2026</span>
+    </nav>
+  </footer>
+</body>
+</html>
