@@ -12,8 +12,9 @@ Ich respektiere Ihre Privatsphäre und den Schutz Ihrer personenbezogenen Daten.
 
 ### Verantwortlicher
 Lars Riebold<br>
-Linienstr. 26<br>
-40227 Düsseldorf<br>
+c/o Adressgeber #2145<br>
+An der Alten Ziegelei 38<br>
+48157 Münster<br>
 E-Mail: labilesleben@gmx.de
 
 ### Hosting
