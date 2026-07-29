@@ -11,6 +11,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addWatchTarget("images");
 
+  eleventyConfig.addPassthroughCopy("downloads");
+  eleventyConfig.addWatchTarget("downloads");
+
   // Simpler IMG-Shortcode (kein sharp, kein Resizing)
   function imgShortcode(src, alt = "", cls = "", width = "", height = "") {
     // kleines Escape nur fürs Alt-Attribut

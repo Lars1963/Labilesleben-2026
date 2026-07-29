@@ -4,8 +4,6 @@ layout: base.njk
 title: "Kontakt"
 
 permalink: "/kontakt/index.html"
-
-
 ---
 
 Du möchtest mir eine Rückmeldung zum Essay geben oder dich mit mir austauschen?

@@ -40,6 +40,6 @@ Der vollständige Essay steht als kostenloser PDF-Download zur Verfügung.
 
 Der vollständige Essay wird hier kostenlos als PDF angeboten.
 
-<a class="download-button" href="/downloads/labiles-leben.pdf">
+<a class="download-button" href="/downloads/2026_labilesleben_download.pdf" download>
   PDF herunterladen
 </a>

@@ -32,7 +32,16 @@ Eine schwere Depression nach einer Trennung unterbrach diese stabile Zeit im Jah
 
 Die Depression von 2024 veränderte schließlich alles. Ich gab meinen Beruf auf und begann eine Psychoanalyse. Aus ihr entstand dieser Essay. Heute muss ich mich mit 62 Jahren noch einmal neu erfinden. In Kürze beginne ich eine Ausbildung zum Genesungsbegleiter. Wie stabil meine Zukunft sein wird, weiß ich nicht.
 
-Ich habe Angst.
-
+Ich habe Angst.<br>
 Und ich freue mich darauf.
+
+Der vollständige Essay steht als kostenloser PDF-Download zur Verfügung.
+
+## Den Essay lesen
+
+Der vollständige Essay wird hier kostenlos als PDF angeboten.
+
+<a class="download-button" href="/downloads/2026_labilesleben_download.pdf" download>
+  PDF herunterladen
+</a>
 
