@@ -8,7 +8,7 @@ description: "Datenschutzerklärung für die Website Labiles Leben."
 permalink: "/datenschutz/index.html"
 ---
 
-Ich respektiere Ihre Privatsphäre und den Schutz Ihrer personenbezogenen Daten.Diese Website kann grundsätzlich genutzt werden, ohne personenbezogene Daten anzugeben.
+Ich respektiere Ihre Privatsphäre und den Schutz Ihrer personenbezogenen Daten. Diese Website kann grundsätzlich genutzt werden, ohne personenbezogene Daten anzugeben.
 
 ### Verantwortlicher
 Lars Riebold<br>
