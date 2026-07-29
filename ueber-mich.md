@@ -9,7 +9,7 @@ description: "Ein Kurzportrait des Autors"
 
 permalink: "/ueber-mich/index.html"
 
-heroImage: "/images/ueber-mich.jpg"
+heroImage: "/images/2-ueber-mich.jpg"
 
 heroAlt: "Der Autor auf Gokyo Ri"
 
