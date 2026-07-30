@@ -9,7 +9,7 @@ description: "Warum der autobiographische Essay Labiles Leben entstanden ist."
 
 permalink: "/warum-dieser-essay/index.html"
 
-heroImage: "/images/warum-dieser-essay.jpg"
+heroImage: "/images/2.jpg"
 
 heroAlt: "Überquerung des Khumbu Gletschers"
 

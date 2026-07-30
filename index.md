@@ -10,7 +10,7 @@ description: "Labiles Leben – ein autobiographischer Essay über Trauma, Depre
 
 isHome: true
 
-heroImage: "/images/2-startseite-wanderer.jpg"
+heroImage: "/images/1.jpg"
 
 heroAlt: "Zwei Wanderer in einer weiten felsigen Hochgebirgslandschaft"
 

@@ -9,7 +9,7 @@ description: "Für wen der autobiographische Essay Labiles Leben interessant ist
 
 permalink: "/fuer-wen/index.html"
 
-heroImage: "/images/fuer-wen.jpg"
+heroImage: "/images/3.jpg"
 
 heroAlt: "Mani Stein auf dem Weg zum Everest Base Camp"
 

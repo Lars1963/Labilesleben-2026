@@ -9,11 +9,11 @@ description: "Ein Kurzportrait des Autors"
 
 permalink: "/ueber-mich/index.html"
 
-heroImage: "/images/2-ueber-mich.jpg"
+heroImage: "/images/4.jpg"
 
 heroAlt: "Der Autor auf Gokyo Ri"
 
-heroQuote: "Die Mühen der Berge liegen hinter uns. (B. Brecht)"
+heroQuote: Der Aufstieg liegt hinter uns. Vor uns liegen die Mühen der Ebene.
 
 heroCountry: "Nepal"
 
