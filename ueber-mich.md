@@ -13,7 +13,7 @@ heroImage: "/images/4.jpg"
 
 heroAlt: "Der Autor auf Gokyo Ri"
 
-heroQuote: Erst die Mühne des Aufstiegs - dann die Mühen der Ebene (B. Brecht)
+heroQuote: Nach den Mühen des Aufstiegs folgen die Mühen der Ebene. (B. Brecht)
 
 heroCountry: "Nepal"
 
