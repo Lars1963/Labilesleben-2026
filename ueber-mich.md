@@ -13,7 +13,7 @@ heroImage: "/images/4.jpg"
 
 heroAlt: "Der Autor auf Gokyo Ri"
 
-heroQuote: Der Aufstieg liegt hinter uns. Vor uns liegen die Mühen der Ebene.
+heroQuote: Die Mühen des Aufstiegs liegen hinter uns. Nun beginnen die Mühen der Ebene. (B. Brecht)
 
 heroCountry: "Nepal"
 
