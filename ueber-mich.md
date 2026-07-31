@@ -13,7 +13,7 @@ heroImage: "/images/4.jpg"
 
 heroAlt: "Der Autor auf Gokyo Ri"
 
-heroQuote: Erst die Mühen des Aufstiegs, dann die Mühen der Ebene. (frei nach B. Brecht)
+heroQuote: Einer der glücklichsten Momente meines Lebens.
 
 heroCountry: "Nepal"
 
