@@ -2,8 +2,14 @@
 
 const fs = require("fs");
 const crypto = require("crypto");
+const sitemap = require("@quasibit/eleventy-plugin-sitemap");
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addPlugin(sitemap, {
+    sitemap: {
+      hostname: "https://www.labilesleben.de"
+    }
+  });
   // Statische Assets durchreichen & beobachten
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addWatchTarget("assets");
