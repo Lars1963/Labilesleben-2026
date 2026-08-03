@@ -3,13 +3,30 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
   <meta name="description" content="{{ description or 'Labiles Leben – Reflexionen über Trauma, Depression und Narzissmus. Ein autobiographischer Essay.' }}">
+
   <title>{% if title and title != 'Labiles Leben' %}{{ title }} | {% endif %}Labiles Leben</title>
+
   <link rel="stylesheet" href="/assets/style.css">
+
   <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ seoTitle or title }}">
   <meta property="og:description" content="{{ description or site.description }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
- <meta property="og:title" content="{{ seoTitle or (title + ' | Labiles Leben') }}">
+  <meta property="og:image" content="{{ site.url }}/images/og-image.jpg">
+
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Labiles Leben",
+  "url": "{{ site.url }}",
+  "description": "{{ site.description }}",
+  "inLanguage": "de"
+}
+</script>
 </head>
 <body>
   <a class="skip-link" href="#inhalt">Zum Inhalt springen</a>
