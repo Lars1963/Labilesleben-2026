@@ -6,6 +6,10 @@
   <meta name="description" content="{{ description or 'Labiles Leben – Reflexionen über Trauma, Depression und Narzissmus. Ein autobiographischer Essay.' }}">
   <title>{% if title and title != 'Labiles Leben' %}{{ title }} | {% endif %}Labiles Leben</title>
   <link rel="stylesheet" href="/assets/style.css">
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="{{ description or site.description }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+ <meta property="og:title" content="{{ seoTitle or (title + ' | Labiles Leben') }}">
 </head>
 <body>
   <a class="skip-link" href="#inhalt">Zum Inhalt springen</a>

@@ -4,9 +4,11 @@ layout: base.njk
 
 title: "Labiles Leben"
 
+seoTitle: "Labiles Leben – Ein autobiographischer Essay über Trauma, Depression und Narzissmus"
+
 subtitle: "Reflexionen über Trauma, Depression und Narzissmus. <br>Ein autobiographischer Essay."
 
-description: "Labiles Leben – ein autobiographischer Essay über Trauma, Depression und Narzissmus."
+description: "Autobiographischer Essay über komplexe Traumatisierung, Depression, PTBS und Narzissmus – persönliche Erfahrungen und psychologische Selbstreflexion."
 
 isHome: true
 
@@ -24,15 +26,15 @@ heroLocation: "Renjo La (5.300 m)"
 
 
 
-In diesem Essay geht es um die Themen komplexe Traumatisierung, Depression und narzisstische Kompensation. Ich thematisiere psychologische Zusammenhänge, die über meine persönliche Lebensgeschichte hinausweisen und vielen Betroffenen vertraut sein dürften.
+Dieser Essay beruht zwar auf meiner persönlichen Lebensgeschichte, doch die psychologischen Zusammenhänge, die ich thematisiere, weisen über den Einzelfall hinaus. Viele Betroffene dürften sich darin wiedererkennen.
 
+Im Mittelpunkt des Essays steht die Frage, wie ein komplexes Trauma entsteht, sich über Jahrzehnte stabilisiert und das Erleben, Denken und Handeln eines Menschen prägt. Ich verbinde autobiographische Erfahrungen mit psychologischer Selbstreflexion und beleuchte die langfristigen Auswirkungen früher Belastungen auf Beziehungen, Selbstwert und Lebensgestaltung.
 
-Im Mittelpunkt steht die Frage, wie eine komplexe Traumatisierung entsteht, sich über Jahrzehnte stabilisiert und das Erleben, Denken und Handeln eines Menschen prägt. Dabei verbindet der Essay autobiographische Erfahrungen mit psychologischer Selbstreflexion und beleuchtet die langfristigen Auswirkungen früher Belastungen auf Beziehungen, Selbstwert und Lebensgestaltung.
+Diese Selbstreflexion ist das Ergebnis einer Psychoanalyse.
 
+Indem ich meine Biografie offenlege, versuche ich einen Beitrag zur Aufklärung zu leisten. Nicht mit Andeutungen, nicht mit Hilfe wissenschaftlicher Theorien, sondern konkret, anschaulich und lebendig.
 
-
-Der Essay richtet sich an Betroffene, Angehörige sowie an Fachleute aus Psychotherapie, Psychiatrie und psychosozialen Arbeitsfeldern, die sich für die subjektive Innensicht psychischer Prozesse interessieren.
-
+Dieser Essay legt offen, wie eine Depression entsteht, wie ihre innere Logik funktioniert und welche Auswirkungen sie hat. So entsteht trotz des Leids etwas Wertvolles: Wenn dieser Essay dazu beiträgt, Erfahrungen besser zu verstehen und Gespräche darüber zu erleichtern, hat er seinen Zweck erfüllt.
 
 
 Der vollständige Essay steht als kostenloser PDF-Download zur Verfügung.

@@ -20,16 +20,17 @@ heroCountry: "Nepal"
 heroLocation: "Mani-Stein (2.800 m)"
 ---
 
-Ich schreibe diesen Text nicht nur für mich selbst, sondern auch als Gesprächsangebot.
+Ich schreibe diesen Essay nicht nur für mich selbst, sondern auch als Gesprächsangebot.
 
-Viele Angehörige meiner Boomer-Generation leiden bis heute unter den Folgen der schwarzen Pädagogik der Nachkriegszeit. Obwohl inzwischen auf dem Rückzug, sind autoritäre Erziehungsmodelle, die auf körperlicher und psychischer Gewalt beruhen, bis heute traurige Realität. Wie sich diese Realität auf mein Leben ausgewirkt hat, erfährst du in diesem Text.
+Er wendet sich an Depressionserfahrene, deren Familie und Freunde sowie an Fachleute aus dem psychosozialen Bereich. Zugleich lädt er zur Selbstreflexion ein und versucht, das depressive Erleben aus der Innenperspektive aufzuklären.
 
-Für viele Psychiater ist die Depression vor allem das Phänomen eines entgleisten Hirnstoffwechsels. Aber was sind die Ursachen dieser Entgleisung? In meinem Fall sind es traumatische Kindheitserfahrungen. Aber ich klage nicht an. Ich verurteile nicht. Ich versuche zu verstehen. Und indem ich dir meine Lebensgeschichte offenlege, teile ich mein Verständnis mit dir.
+Psychisch stabile Menschen verstehen beim Lesen, wie kostbar und verletzlich ihre psychische Stabilität ist, und dass diese Stabilität von emotionalen Voraussetzungen abhängt, die alles andere als selbstverständlich sind.
 
-Dieser Text wendet sich an Depressionserfahrene, deren Familie und Freunde sowie an Fachleute aus dem psychosozialen Bereich. Er versucht, das depressive Erleben aus der Innenperspektive aufzuklären und lädt zur Selbstreflexion ein.
+Autoritäre Erziehungsmuster, die auf körperlicher und psychischer Gewalt beruhen, sind bis heute traurige Realität. Viele Angehörige meiner Boomer-Generation leiden bis heute unter den Folgen der schwarzen Pädagogik der Nachkriegszeit. Wie sich diese Realität auf mein Leben ausgewirkt hat, erfährst du in diesem Essay.
 
-Aber auch psychisch stabile Menschen werden durch diesen Text bereichert. Denn am Ende erkennen sie, wie kostbar und verletzlich ihre psychische Stabilität ist, und dass sie von Voraussetzungen abhängt, die alles andere als selbstverständlich sind.
+Ich lese oft, dass Depressionen die Folge eines entgleisten Hirnstoffwechsels seien. Aber wodurch entsteht diese Entgleisung? In meinem Fall sind es traumatische Kindheitserfahrungen. Aber ich klage nicht an. Ich verurteile nicht. Ich versuche zu verstehen.
 
+Und indem ich meine Lebensgeschichte offenlege, teile ich mein mühsam erworbenes Verständnis mit dir.
 
 
 Der vollständige Essay steht als kostenloser PDF-Download zur Verfügung.

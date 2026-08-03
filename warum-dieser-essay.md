@@ -22,17 +22,17 @@ heroLocation: "Khumbu Gletscher (4.800 m)"
 
 
 
-Mit diesem Text erobere ich meine Lebensgeschichte zurück.
+Mit diesem Essay erobere ich mir meine Lebensgeschichte zurück.
 
-Immer wieder hat die Depression von mir Besitz ergriffen. Immer wieder ist mein Leben aus den Fugen geraten. Aber jetzt drehe ich den Spieß um! Jetzt stelle ich die Depression zur Rede - obwohl sie gerade friedlich in mir schlummert.
+Immer wieder ergreift die Depression von mir Besitz. Dann gerät mein Leben aus den Fugen. Aber jetzt drehe ich den Spieß um. Jetzt stelle ich die Depression zur Rede. Sie rechnet nicht damit, weil sie gerade friedlich in mir schlummert.
 
-In diesem Essay zerre ich die Depression aus ihrem Versteck hervor. Wie im Krimi wird sie im Schlaf überrascht und zum Verhör gebracht. Scheinwerfer erhellen jeden Winkel. Nichts bleibt verborgen. Die Befragung beginnt. Die Verdächtige kann sich winden, ausweichen, leugnen – aber entkommen kann sie mir nicht. 
+Mit diesem Essay zerre ich sie aus ihrem Versteck hervor.
 
-Am Ende wird die Depression umfassend aussagen. Ich will die Wahrheit hören – und nichts als die Wahrheit. Diese Wahrheit geht uns alle an. Denn jeder ist verletzlich. Niemand ist vor ihr sicher. Deshalb ist die Depression nicht nur mein persönliches Problem, sondern gehört in den öffentlichen Diskurs.
+Wie im Krimi wird sie im Schlaf überrascht und zum Verhör gebracht. Scheinwerfer erhellen jeden Winkel. Die Befragung beginnt. Nichts bleibt verborgen. Die Verdächtige kann sich winden, ausweichen, leugnen. Aber entkommen kann sie nicht.
 
-Dieser Essay legt offen, wie eine Depression entsteht, wie ihre innere Logik funktioniert und welche Auswirkungen sie hat. So kann trotz des Leids etwas Wertvolles entstehen.  Wenn dieser Essay dazu beiträgt, Erfahrungen besser zu verstehen und Gespräche darüber zu erleichtern, hat er seinen Zweck erfüllt.
+Am Ende wird die Depression ein vollständiges Geständnis ablegen. Ich will die Wahrheit hören und nichts als die Wahrheit! Diese Wahrheit geht uns alle an. Jeder ist verletzlich. Niemand ist sicher vor der Depression. Sie ist also nicht nur mein persönliches Problem, sondern gehört in den öffentlichen Diskurs.
 
-
+Deshalb lege ich meine Karten auf den Tisch – sprechen wir darüber!
 
 Der vollständige Essay steht als kostenloser PDF-Download zur Verfügung.
 
