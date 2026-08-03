@@ -24,9 +24,9 @@ Im Grunde habe ich vom Leben genau das bekommen, was ich immer gesucht habe: int
 
 Ich habe intensive körperliche Herausforderungen geliebt, z. B. lange Tempodauerläufe bei Regen und Kälte, Trekkingtouren durch Korsika und den Himalaya, das Gefühl, meinen Körper an seine Grenzen zu bringen. Gleichzeitig habe ich fast die Hälfte meines Lebens mit Depressionen gekämpft. Wenn das die andere Seite der Intensität war, hätte ich auf sie gerne verzichtet.
 
-Vor meinem 35. Lebensjahr jagte eine depressive Episode die nächste. Nach zwei Suizidversuchen schien mein Leben fast zu Ende. Erst ein Klinikaufenthalt im Jahr 1999 brachte die Wende. Zum ersten Mal gelang es mir, psychisch stabil zu werden und ein normales Berufsleben aufzubauen.
+Vor meinem 35. Lebensjahr jagte eine depressive Episode die nächste. Dazwischen lagen narzisstische Phasen, in denen ich nur scheinbar aufblühte. Nach zwei Suizidversuchen schien mein Leben fast zu Ende. Erst ein Klinikaufenthalt im Jahr 1999 brachte die Wende. Zum ersten Mal gelang es mir, psychisch stabil zu werden und ein normales Berufsleben aufzubauen.
 
-Es folgten zwanzig Jahre, die ich lange für unmöglich gehalten hatte: Arbeit, finanzielle Sicherheit, Freundschaften, Reisen und zwölf Marathons. Besonders glücklich war ich oft an gewöhnlichen Abenden, wenn ich nach der Arbeit im Dunkeln zu einem langen Lauf aufbrach und erschöpft nach Hause kam. Wunderbare Frauen kreuzten meinen Weg. Warum ich mich nie dauerhaft gebunden habe, erzähle ich in diesem Essay.
+Es folgten zwanzig Jahre, die ich lange für unmöglich gehalten hatte: Arbeit, finanzielle Sicherheit, Freundschaften, Reisen und zwölf Marathons. Trauma, Depression und Narzissmus rückten scheinbar in weite Ferne. Besonders glücklich war ich oft an gewöhnlichen Abenden, wenn ich nach der Arbeit im Dunkeln zu einem langen Lauf aufbrach und erschöpft nach Hause kam. Wunderbare Frauen kreuzten meinen Weg. Warum ich mich nie dauerhaft gebunden habe, erzähle ich in diesem Essay.
 
 Eine schwere Depression nach einer Trennung unterbrach diese stabile Zeit im Jahr 2015. Danach zog es mich allein nach Nepal. Drei hohe Himalaya-Pässe, eine grandiose Landschaft, mein Rucksack auf dem Rücken, der Körper am Limit – selten habe ich mich dem Leben so nahe gefühlt.
 

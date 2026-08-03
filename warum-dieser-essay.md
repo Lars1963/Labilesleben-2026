@@ -20,19 +20,17 @@ heroCountry: "Nepal"
 heroLocation: "Khumbu Gletscher (4.800 m)"
 ---
 
+Der autobiographische Essay setzt sich mit den Zusammenhängen von Trauma, Depression und narzisstischer Kompensation auseinander. Er entstand aus dem Wunsch, diese Zusammenhänge zu verstehen und zur Diskussion zu stellen.
 
+Mit ihm erobere ich mir meine Lebensgeschichte zurück.
 
-Mit diesem Essay erobere ich mir meine Lebensgeschichte zurück.
-
-Immer wieder ergreift die Depression von mir Besitz. Dann gerät mein Leben aus den Fugen. Aber jetzt drehe ich den Spieß um. Jetzt stelle ich die Depression zur Rede. Sie rechnet nicht damit, weil sie gerade friedlich in mir schlummert.
-
-Mit diesem Essay zerre ich sie aus ihrem Versteck hervor.
+Bislang wurden die wichtigsten Kapitel meines Lebens von der Depression geschrieben. Immer wieder ergreift sie von mir Besitz. Immer wieder sorgt sie dafür, dass mein Leben aus den Fugen gerät. Aber jetzt drehe ich den Spieß um. Jetzt stelle ich sie zur Rede. Jetzt zerre ich sie aus ihrem Versteck hervor, auch wenn sie gerade friedlich in mir schlummert.
 
 Wie im Krimi wird sie im Schlaf überrascht und zum Verhör gebracht. Scheinwerfer erhellen jeden Winkel. Die Befragung beginnt. Nichts bleibt verborgen. Die Verdächtige kann sich winden, ausweichen, leugnen. Aber entkommen kann sie nicht.
+Am Ende wird die Depression ein vollständiges Geständnis ablegen.
 
-Am Ende wird die Depression ein vollständiges Geständnis ablegen. Ich will die Wahrheit hören und nichts als die Wahrheit! Diese Wahrheit geht uns alle an. Jeder ist verletzlich. Niemand ist sicher vor der Depression. Sie ist also nicht nur mein persönliches Problem, sondern gehört in den öffentlichen Diskurs.
+Ich will die Wahrheit hören und nichts als die Wahrheit! Diese Wahrheit geht uns alle an. Jeder ist verletzlich. Niemand ist sicher vor der Depression. Sie ist also nicht nur mein persönliches Problem, sondern gehört in den öffentlichen Diskurs. Ich lege meine Karten auf den Tisch – sprechen wir darüber!
 
-Deshalb lege ich meine Karten auf den Tisch – sprechen wir darüber!
 
 Der vollständige Essay steht als kostenloser PDF-Download zur Verfügung.
 

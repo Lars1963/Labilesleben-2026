@@ -25,17 +25,15 @@ heroLocation: "Renjo La (5.300 m)"
 ---
 
 
+„Labiles Leben“ ist ein autobiographischer Essay über komplexe Traumatisierung, Depression und Narzissmus. Er verbindet persönliche Erfahrungen mit psychologischer Selbstreflexion und zeigt, wie frühe Belastungen das spätere Leben prägen.
 
-Dieser Essay beruht zwar auf meiner persönlichen Lebensgeschichte, doch die psychologischen Zusammenhänge, die ich thematisiere, weisen über den Einzelfall hinaus. Viele Betroffene dürften sich darin wiedererkennen.
+Der Essay beruht auf meiner persönlichen Lebensgeschichte. Die psychologischen Zusammenhänge, die er beschreibt, reichen jedoch über meinen Einzelfall hinaus. Viele Betroffene dürften sich darin wiedererkennen.
 
-Im Mittelpunkt des Essays steht die Frage, wie ein komplexes Trauma entsteht, sich über Jahrzehnte stabilisiert und das Erleben, Denken und Handeln eines Menschen prägt. Ich verbinde autobiographische Erfahrungen mit psychologischer Selbstreflexion und beleuchte die langfristigen Auswirkungen früher Belastungen auf Beziehungen, Selbstwert und Lebensgestaltung.
+Im Mittelpunkt steht die Frage, wie ein komplexes Trauma entsteht, sich über Jahrzehnte stabilisiert und das Erleben, Denken und Handeln eines Menschen prägt. Die Antworten darauf habe ich während einer Psychoanalyse gefunden.
 
-Diese Selbstreflexion ist das Ergebnis einer Psychoanalyse.
+Der Essay fasst die wichtigsten Erkenntnisse verständlich zusammen. Er leistet einen Beitrag zur Aufklärung über psychische Erkrankungen. Nicht mit abstrakten Theorien oder Andeutungen, sondern konkret, anschaulich und lebendig. Die Leser erfahren, wie Depression und narzisstische Kompensation entstehen, wie ihre innere Logik funktioniert und welche Auswirkungen sie haben.
 
-Indem ich meine Biografie offenlege, versuche ich einen Beitrag zur Aufklärung zu leisten. Nicht mit Andeutungen, nicht mit Hilfe wissenschaftlicher Theorien, sondern konkret, anschaulich und lebendig.
-
-Dieser Essay legt offen, wie eine Depression entsteht, wie ihre innere Logik funktioniert und welche Auswirkungen sie hat. So entsteht trotz des Leids etwas Wertvolles: Wenn dieser Essay dazu beiträgt, Erfahrungen besser zu verstehen und Gespräche darüber zu erleichtern, hat er seinen Zweck erfüllt.
-
+Indem er die Innenperspektive des depressiven Erlebens sichtbar macht, erleichtert dieser Essay das Verständnis psychischer Dynamiken und lädt zum Gespräch darüber ein.
 
 Der vollständige Essay steht als kostenloser PDF-Download zur Verfügung.
 
