@@ -20,11 +20,27 @@
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "Labiles Leben",
-  "url": "{{ site.url }}",
-  "description": "{{ site.description }}",
-  "inLanguage": "de"
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "name": "Labiles Leben",
+      "url": "{{ site.url }}",
+      "description": "{{ site.description }}",
+      "inLanguage": "de"
+    },
+    {
+      "@type": "WebPage",
+      "name": "{{ seoTitle or title }}",
+      "url": "{{ site.url }}{{ page.url }}",
+      "description": "{{ description or site.description }}",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "Labiles Leben",
+        "url": "{{ site.url }}"
+      },
+      "inLanguage": "de"
+    }
+  ]
 }
 </script>
 </head>
