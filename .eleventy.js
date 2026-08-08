@@ -7,7 +7,7 @@ const sitemap = require("@quasibit/eleventy-plugin-sitemap");
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(sitemap, {
     sitemap: {
-      hostname: "https://www.labilesleben.de"
+      hostname: "https://labilesleben.de"
     }
   });
   // Statische Assets durchreichen & beobachten
