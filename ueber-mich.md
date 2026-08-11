@@ -24,7 +24,7 @@ Im Grunde habe ich vom Leben genau das bekommen, was ich immer gesucht habe: int
 
 Ich habe intensive körperliche Herausforderungen geliebt, z. B. lange Tempodauerläufe bei Regen und Kälte, Trekkingtouren durch Korsika und den Himalaya, das Gefühl, meinen Körper an seine Grenzen zu bringen. Gleichzeitig habe ich fast die Hälfte meines Lebens mit Depressionen gekämpft. Wenn das die andere Seite der Intensität war, hätte ich auf sie gerne verzichtet.
 
-Vor meinem 35. Lebensjahr jagte eine depressive Episode die nächste. Dazwischen lagen narzisstische Phasen, in denen ich nur scheinbar aufblühte. Nach zwei Suizidversuchen schien mein Leben fast zu Ende. Erst ein Klinikaufenthalt im Jahr 1999 brachte die Wende. Zum ersten Mal gelang es mir, psychisch stabil zu werden und ein normales Berufsleben aufzubauen.
+Vor meinem 35. Lebensjahr jagte eine depressive Episode die nächste. Dazwischen lagen narzisstische Phasen, in denen ich nur scheinbar aufblühte. Nach zwei Suizidversuchen schien meine Lage hoffnungslos zu sein. Erst ein Klinikaufenthalt im Jahr 1999 brachte die Wende. Zum ersten Mal gelang es mir, psychisch stabil zu werden und ein normales Berufsleben aufzubauen.
 
 Es folgten zwanzig Jahre, die ich lange für unmöglich gehalten hatte: Arbeit, finanzielle Sicherheit, Freundschaften, Reisen und zwölf Marathons. Trauma, Depression und Narzissmus rückten scheinbar in weite Ferne. Besonders glücklich war ich oft an gewöhnlichen Abenden, wenn ich nach der Arbeit im Dunkeln zu einem langen Lauf aufbrach und erschöpft nach Hause kam. Wunderbare Frauen kreuzten meinen Weg. Warum ich mich nie dauerhaft gebunden habe, erzähle ich in diesem Essay.
 
@@ -35,11 +35,9 @@ Die Depression von 2024 veränderte schließlich alles. Ich gab meinen Beruf auf
 Ich habe Angst.<br>
 Und ich freue mich darauf.
 
-Der vollständige Essay steht als kostenloser PDF-Download zur Verfügung.
-
 ## Den Essay lesen
 
-Der vollständige Essay wird hier kostenlos als PDF angeboten.
+Hier kannst du den kompletten Essay kostenfrei als PDF downloaden.
 
 <a class="download-button" href="/downloads/2026_labilesleben_download.pdf" download>
   PDF herunterladen

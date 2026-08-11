@@ -20,23 +20,19 @@ heroCountry: "Nepal"
 heroLocation: "Mani-Stein (2.800 m)"
 ---
 
-Trauma, Depression und Narzissmus sind weit verbreitete Phänomene. Dieser Essay ist ein Angebot, darüber ins Gespräch zu kommen.
+Trauma, Depression und Narzissmus sind weit verbreitete Phänomene. Dieser Essay ist ein Angebot, darüber ins Gespräch zu kommen. Er ist keine Anleitung zur Selbstdiagnose und auch kein therapeutischer Ratgeber, sondern ein Erfahrungs- und Reflexionstext, der beschreibt, wie sich bestimmte psychische Dynamiken von innen anfühlen und aus der Lebensgeschichte heraus verständlich werden.
 
-Er wendet sich an Betroffene, deren Familie und Freunde sowie an Fachleute aus dem psychosozialen Bereich. Zugleich lädt er zur Selbstreflexion ein und versucht, das depressiv-narzisstische Erleben aus der Innenperspektive aufzuklären.
+Er wendet sich an Betroffene, an ihre Angehörigen und Freunde sowie an Fachleute aus dem psychosozialen Bereich. Zugleich lädt er alle Leserinnen und Leser zur Selbstreflexion ein, die verstehen möchten, wie depressiv-narzisstisches Erleben von innen funktioniert.
 
-Psychisch stabile Menschen verstehen beim Lesen, wie kostbar und verletzlich ihre psychische Stabilität ist, und dass diese Stabilität von emotionalen Voraussetzungen abhängt, die alles andere als selbstverständlich sind.
+Auch Menschen, die noch nie mit Trauma, Depression und Narzissmus zu kämpfen hatten, dürften diesen Text mit Gewinn lesen. Er kann ihnen zeigen, wie kostbar und verletzlich psychische Stabilität ist — und wie sehr sie von emotionalen Voraussetzungen abhängt, die keineswegs selbstverständlich sind.
 
-Autoritäre Erziehungsmuster, die auf körperlicher und psychischer Gewalt beruhen, sind bis heute traurige Realität. Viele Angehörige meiner Boomer-Generation leiden bis heute unter den Folgen der schwarzen Pädagogik der Nachkriegszeit. Wie sich diese Realität auf mein Leben ausgewirkt hat, erfährst du in diesem Essay.
-
-Oft lese ich, Depressionen seien die Folge eines entgleisten Hirnstoffwechsels. Aber wodurch entsteht diese Entgleisung? In meinem Fall ist die Antwort klar: Durch traumatische Kindheitserfahrungen. Aber ich klage nicht an. Ich verurteile nicht. Ich versuche lediglich zu verstehen.
+Oft lese ich, Depressionen seien die Folge eines entgleisten Hirnstoffwechsels. Doch die entscheidende Frage bleibt offen: Wodurch gerät ein Leben innerlich so aus dem Gleichgewicht, dass es entgleist? In meinem Fall führt die Antwort zurück zu traumatischen Kindheitserfahrungen. Mein Essay ist dennoch keine Anklageschrift. Ich habe meinen Eltern längst verziehen. Ich verurteile nicht. Ich versuche zu verstehen.
 
 Indem ich meine Lebensgeschichte offenlege, teile ich mein mühsam erworbenes Verständnis mit dir.
 
-Der vollständige Essay steht als kostenloser PDF-Download zur Verfügung.
-
 ## Den Essay lesen
 
-Der vollständige Essay wird hier kostenlos als PDF angeboten.
+Hier kannst du den kompletten Essay kostenfrei als PDF downloaden.
 
 <a class="download-button" href="/downloads/2026_labilesleben_download.pdf" download>
   PDF herunterladen

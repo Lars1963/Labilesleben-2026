@@ -24,16 +24,11 @@ heroLocation: "Renjo La (5.300 m)"
 
 ---
 
+"Labiles Leben" ist ein autobiographischer Essay über Bindungstrauma, Depression und Narzissmus. Er fragt anhand meiner eigenen Geschichte, wie negative Kindheitserfahrungen ein späteres Leben prägen. Die psychologischen Muster, die darin sichtbar werden, reichen über den Einzelfall hinaus. Viele Betroffene dürften sich darin wiedererkennen.
 
-„Labiles Leben“ ist ein autobiographischer Essay über komplexe Traumatisierung, Depression und Narzissmus. Er verbindet persönliche Erfahrungen mit psychologischer Selbstreflexion und zeigt, wie frühe Belastungen das spätere Leben prägen.
+Seit Jahrzehnten lebe ich mit einer komplexen posttraumatischen Belastungsstörung (PTBS). Im Laufe meines Lebens hat sie zehn schwere depressive Episoden ausgelöst. Die letzte Depression hatte schwerwiegende Folgen; sie wurde für mich zum Anlass, eine Psychoanalyse zu beginnen.
 
-Der Essay beruht auf meiner persönlichen Lebensgeschichte. Die psychologischen Zusammenhänge, die er beschreibt, reichen jedoch über meinen Einzelfall hinaus. Viele Betroffene dürften sich darin wiedererkennen.
+Der Essay fasst die Ergebnisse der Psychoanalyse zusammen. Er ist das Ergebnis einer intensiven Selbstreflexion. Die innere Reise führt zurück in eine toxische Kindheit, aus der ein depressiv-narzisstisches Erleben hervorging. Der Text zeigt, wie es sich anfühlt, ohne verlässliche Beziehungen aufgewachsen zu sein, und wie tief dieser Mangel mein Leben geprägt hat.
 
-Im Mittelpunkt steht die Frage, wie ein komplexes Trauma entsteht, sich über Jahrzehnte stabilisiert und das Erleben, Denken und Handeln eines Menschen prägt. Die Antworten darauf habe ich während einer Psychoanalyse gefunden.
-
-Der Essay fasst die wichtigsten Erkenntnisse verständlich zusammen. Er leistet einen Beitrag zur Aufklärung über psychische Erkrankungen. Nicht mit abstrakten Theorien oder Andeutungen, sondern konkret, anschaulich und lebendig. Die Leser erfahren, wie Depression und narzisstische Kompensation entstehen, wie ihre innere Logik funktioniert und welche Auswirkungen sie haben.
-
-Indem er die Innenperspektive des depressiven Erlebens sichtbar macht, erleichtert dieser Essay das Verständnis psychischer Dynamiken und lädt zum Gespräch darüber ein.
-
-Der vollständige Essay steht als kostenloser PDF-Download zur Verfügung.
+Der Essay gewährt einen tiefen Einblick in meine innere Welt. Indem ich offen über mein traumatisches Erleben spreche, möchte ich nicht nur meine eigene Geschichte verständlich machen, sondern auch zu einem besseren Verständnis psychischer Zusammenhänge beitragen.
 

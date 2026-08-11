@@ -20,23 +20,22 @@ heroCountry: "Nepal"
 heroLocation: "Khumbu Gletscher (4.800 m)"
 ---
 
-Der autobiographische Essay setzt sich mit den Zusammenhängen von Trauma, Depression und narzisstischer Kompensation auseinander. Er entstand aus dem Wunsch, diese Zusammenhänge zu verstehen und zur Diskussion zu stellen.
+Mit diesem autobiographischen Essay erobere ich mir meine Lebensgeschichte zurück.
 
-Mit ihm erobere ich mir meine Lebensgeschichte zurück.
+Bislang wurden die zentralen Kapitel meines Lebens von der Depression geschrieben. Immer wieder ergreift sie von mir Besitz. Immer wieder gerät mein Leben aus den Fugen. Aber jetzt ist Schluss. Jetzt stelle ich sie zur Rede – auch wenn sie im Moment lieber schweigt.
 
-Bislang wurden die wichtigsten Kapitel meines Lebens von der Depression geschrieben. Immer wieder ergreift sie von mir Besitz. Immer wieder sorgt sie dafür, dass mein Leben aus den Fugen gerät. Aber jetzt drehe ich den Spieß um. Jetzt stelle ich sie zur Rede. Jetzt zerre ich sie aus ihrem Versteck hervor, auch wenn sie gerade friedlich in mir schlummert.
+Doch ich lasse mich von der Depression nicht täuschen. In diesem Text hole ich sie aus ihrem Versteck und sehe ihr so lange ins Gesicht, bis ihre innere Logik sichtbar wird. Ich will verstehen, wie sie sich tarnt, wie sie mich immer wieder erreicht und warum sie trotzdem nicht das letzte Wort haben darf.
 
-Wie im Krimi wird sie im Schlaf überrascht und zum Verhör gebracht. Scheinwerfer erhellen jeden Winkel. Die Befragung beginnt. Nichts bleibt verborgen. Die Verdächtige kann sich winden, ausweichen, leugnen. Aber entkommen kann sie nicht.
-Am Ende wird die Depression ein vollständiges Geständnis ablegen.
+Ich will die Wahrheit wissen, auch wenn sie schmerzt.
 
-Ich will die Wahrheit hören und nichts als die Wahrheit! Diese Wahrheit geht uns alle an. Jeder ist verletzlich. Niemand ist sicher vor der Depression. Sie ist also nicht nur mein persönliches Problem, sondern gehört in den öffentlichen Diskurs. Ich lege meine Karten auf den Tisch – sprechen wir darüber!
+Diese Suche nach Wahrheit betrifft nicht nur mich. Sie geht uns alle an, weil jeder verletzlich und niemand vor der Depression sicher ist. Deshalb gehört dieses Thema nicht ins Private, sondern in ein offenes Gespräch.
 
-
-Der vollständige Essay steht als kostenloser PDF-Download zur Verfügung.
+Mit diesem Text lege ich meine Karten auf den Tisch.
+Sprechen wir darüber!
 
 ## Den Essay lesen
 
-Der vollständige Essay wird hier kostenlos als PDF angeboten.
+Hier kannst du den kompletten Essay kostenfrei als PDF downloaden.
 
 <a class="download-button" href="/downloads/2026_labilesleben_download.pdf" download>
   PDF herunterladen
