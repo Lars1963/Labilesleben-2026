@@ -26,7 +26,7 @@ heroLocation: "Renjo La (5.300 m)"
 
 "Labiles Leben" ist ein autobiographischer Essay über Bindungstrauma, Depression und Narzissmus. Er beschreibt, wie negative Kindheitserfahrungen mein späteres Leben geprägt haben. Obwohl meine persönliche Geschichte im Zentrum steht, reichen die psychologischen Muster über den Einzelfall hinaus. Viele Betroffene dürften sich darin wiedererkennen.
 
-Seit Jahrzehnten lebe ich mit einer komplexen posttraumatischen Belastungsstörung (PTBS), die im Laufe meines Lebens mehrere schwere depressive Episoden ausgelöst hat. Die letzte Depression hatte tiefgreifende finanzielle und soziale Folgen; sie wurde für mich zum Anlass, eine Psychoanalyse zu beginnen.
+Seit Jahrzehnten lebe ich mit einer komplexen posttraumatischen Belastungsstörung (PTBS), die im Laufe meines Lebens mehrere schwere depressive Episoden ausgelöst hat. Die letzte Depression hatte weitreichende finanzielle und soziale Folgen; sie wurde für mich zum Anlass, eine Psychoanalyse zu beginnen.
 
 Dieser Essay fasst wichtige Erkenntnisse aus der Psychoanalyse zusammen und führt zurück in meine toxische Kindheit. Hier erfährst du, wie es sich anfühlt, ohne verlässliche Bindungen aufzuwachsen, wie tief mich dieser Mangel geprägt hat und welche Konsequenzen daraus folgen.
 
