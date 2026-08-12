@@ -28,8 +28,8 @@ heroLocation: "Renjo La (5.300 m)"
 
 Seit Jahrzehnten lebe ich mit einer komplexen posttraumatischen Belastungsstörung (PTBS), die im Laufe meines Lebens mehrere schwere depressive Episoden ausgelöst hat. Die letzte Depression hatte tiefgreifende finanzielle und soziale Folgen; sie wurde für mich zum Anlass, eine Psychoanalyse zu beginnen.
 
-Dieser Essay fasst wichtige Erkenntnisse der Psychoanalyse zusammen und führt zurück in meine toxische Kindheit. Hier erfährst du, wie es sich anfühlt, ohne verlässliche Bindungen aufzuwachsen, wie tief mich dieser Mangel geprägt hat und welche Konsequenzen daraus folgen.
+Dieser Essay fasst wichtige Erkenntnisse aus der Psychoanalyse zusammen und führt zurück in meine toxische Kindheit. Hier erfährst du, wie es sich anfühlt, ohne verlässliche Bindungen aufzuwachsen, wie tief mich dieser Mangel geprägt hat und welche Konsequenzen daraus folgen.
 
-Mit diesem Text gewähre ich dir tiefe Einblicke in meine Innenwelt. Indem ich offen über mein traumatisches Erleben spreche, setze ich mich nicht nur mit meiner eigenen Geschichte auseinander, sondern versuche auch zu einem besseren Verständnis psychischer Zusammenhänge beizutragen.
+Mit diesem Text gewähre ich dir tiefe Einblicke in meine Innenwelt. Indem ich offen über mein traumatisches Erleben spreche, setze ich mich nicht nur mit meiner eigenen Geschichte auseinander, sondern versuche auch grundsätzlich zu einem besseren Verständnis psychischer Zusammenhänge beizutragen.
 
 
