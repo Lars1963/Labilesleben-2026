@@ -13,7 +13,7 @@ heroImage: "/images/3.jpg"
 
 heroAlt: "Mani Stein auf dem Weg zum Everest Base Camp"
 
-heroQuote: "Die Grenzen meiner Sprache sind die Grenzen meiner Welt (L. Wittgenstein)"
+heroQuote: "Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt (L. Wittgenstein)"
 
 heroCountry: "Nepal"
 
@@ -28,7 +28,7 @@ Auch Menschen, die noch nie mit einer psychischen Erkrankung zu kämpfen hatten,
 
 Oft lese ich, Depressionen seien die Folge eines entgleisten Hirnstoffwechsels. Aber wodurch gerät ein Leben innerlich so aus den Fugen, dass es entgleist? Bei mir liegt die Antwort in traumatischen Kindheitserfahrungen. Dennoch ist dieser Essay keine Anklageschrift gegen meine Eltern. Ich habe ihnen längst verziehen. Ich verurteile nicht. Ich versuche zu verstehen.
 
-Dieses mühsam erworbene Verständnis möchte ich mit dir teilen.
+Mein mühsam erworbenes Wissen möchte ich mit dir teilen.
 
 ## Den Essay lesen
 
