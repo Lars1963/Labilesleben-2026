@@ -13,7 +13,7 @@ heroImage: "/images/4.jpg"
 
 heroAlt: "Der Autor auf Gokyo Ri"
 
-heroQuote: Einer der glücklichsten Momente meines Lebens.
+heroQuote: Ein hart erarbeiteter Glücksmoment - gegen die Depression.
 
 heroCountry: "Nepal"
 

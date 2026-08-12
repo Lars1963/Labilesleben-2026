@@ -24,11 +24,12 @@ heroLocation: "Renjo La (5.300 m)"
 
 ---
 
-"Labiles Leben" ist ein autobiographischer Essay über Bindungstrauma, Depression und Narzissmus. Er fragt anhand meiner eigenen Geschichte, wie negative Kindheitserfahrungen ein späteres Leben prägen. Die psychologischen Muster, die darin sichtbar werden, reichen über den Einzelfall hinaus. Viele Betroffene dürften sich darin wiedererkennen.
+"Labiles Leben" ist ein autobiographischer Essay über Bindungstrauma, Depression und Narzissmus. Er beschreibt, wie negative Kindheitserfahrungen mein späteres Leben geprägt haben. Obwohl es um meine persönliche Geschichte geht, reichen die psychologischen Muster über den Einzelfall hinaus. Viele Betroffene dürften sich darin wiedererkennen.
 
-Seit Jahrzehnten lebe ich mit einer komplexen posttraumatischen Belastungsstörung (PTBS). Im Laufe meines Lebens hat sie zehn schwere depressive Episoden ausgelöst. Die letzte Depression hatte schwerwiegende Folgen; sie wurde für mich zum Anlass, eine Psychoanalyse zu beginnen.
+Seit Jahrzehnten lebe ich mit einer komplexen posttraumatischen Belastungsstörung (PTBS), die im Laufe meines Lebens mehrere schwere depressive Episoden ausgelöst hat. Die letzte Depression hatte tiefe finanzielle und soziale Folgen; sie wurde für mich zum Anlass, eine Psychoanalyse zu beginnen.
 
-Der Essay fasst die Ergebnisse der Psychoanalyse zusammen. Er ist das Ergebnis einer intensiven Selbstreflexion. Die innere Reise führt zurück in eine toxische Kindheit, aus der ein depressiv-narzisstisches Erleben hervorging. Der Text zeigt, wie es sich anfühlt, ohne verlässliche Beziehungen aufgewachsen zu sein, und wie tief dieser Mangel mein Leben geprägt hat.
+Dieser Essay fasst wichtige Erkenntnisse der Psychoanalyse zusammen. Die intensive Selbstreflexion führt zurück in meine toxische Kindheit. Es wird deutlich, wie es sich anfühlt, ohne verlässliche Beziehungen aufgewachsen zu sein, wie tief dieser Mangel mein Leben geprägt hat und welche Konsequenzen daraus folgen.
 
-Der Essay gewährt einen tiefen Einblick in meine innere Welt. Indem ich offen über mein traumatisches Erleben spreche, möchte ich nicht nur meine eigene Geschichte verständlich machen, sondern auch zu einem besseren Verständnis psychischer Zusammenhänge beitragen.
+Mit diesem Text gewähre ich dir einen tiefen Einblick in meine innere Welt. Indem ich offen über mein traumatisches Erleben spreche, möchte ich nicht nur meine eigene Geschichte verständlich machen, sondern auch zu einem besseren Verständnis psychischer Zusammenhänge beitragen.
+
 
