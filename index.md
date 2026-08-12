@@ -30,6 +30,6 @@ Seit Jahrzehnten lebe ich mit einer komplexen posttraumatischen Belastungsstöru
 
 Dieser Essay fasst wichtige Erkenntnisse aus der Psychoanalyse zusammen und führt zurück in meine toxische Kindheit. Hier erfährst du, wie es sich anfühlt, ohne verlässliche Bindungen aufzuwachsen, wie tief mich dieser Mangel geprägt hat und welche Konsequenzen daraus folgen.
 
-Du bekommst also einen tiefen Einblick in meine Innenwelt. Indem ich offen über mein traumatisches Erleben spreche, setze ich mich nicht nur mit meiner eigenen Geschichte auseinander, sondern versuche auch zu einem besseren Verständnis psychischer Zusammenhänge beizutragen.
+Du bekommst also tiefe Einblicke in meine Innenwelt. Indem ich offen über mein traumatisches Erleben spreche, setze ich mich nicht nur mit meiner eigenen Geschichte auseinander, sondern versuche auch zu einem besseren Verständnis psychischer Krankheiten beizutragen.
 
 
