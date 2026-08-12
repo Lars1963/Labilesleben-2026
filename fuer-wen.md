@@ -20,15 +20,15 @@ heroCountry: "Nepal"
 heroLocation: "Mani-Stein (2.800 m)"
 ---
 
-Trauma, Depression und Narzissmus sind weit verbreitete Phänomene. Dieser Essay ist ein Angebot, darüber ins Gespräch zu kommen. Er ist keine Anleitung zur Selbstdiagnose und auch kein therapeutischer Ratgeber, sondern ein Erfahrungs- und Reflexionstext, der beschreibt, wie sich bestimmte psychische Dynamiken von innen anfühlen und aus der Lebensgeschichte heraus verständlich werden.
+Trauma, Depression und Narzissmus sind weit verbreitete Phänomene. Dieser Essay ist ein Angebot, darüber ins Gespräch zu kommen. Er ist keine Anleitung zur Selbstdiagnose und auch kein therapeutischer Ratgeber, sondern ein Erfahrungs- und Reflexionstext. Er beschreibt, wie sich psychische Dynamiken von innen anfühlen und aus der Lebensgeschichte heraus verständlich werden.
 
-Er wendet sich an Betroffene, an ihre Angehörigen und Freunde sowie an Fachleute aus dem psychosozialen Bereich. Zugleich lädt er alle Leserinnen und Leser zur Selbstreflexion ein, die verstehen möchten, wie depressiv-narzisstisches Erleben von innen funktioniert.
+Der Essay wendet sich an Betroffene, ihre Angehörigen und Freunde sowie an Fachleute aus dem psychosozialen Bereich. Er ist für Leserinnen und Leser gedacht, die verstehen möchten, wie depressiv-narzisstisches Erleben von innen funktioniert.
 
-Auch Menschen, die noch nie mit Trauma, Depression und Narzissmus zu kämpfen hatten, dürften diesen Text mit Gewinn lesen. Er kann ihnen zeigen, wie kostbar und verletzlich psychische Stabilität ist — und wie sehr sie von emotionalen Voraussetzungen abhängt, die keineswegs selbstverständlich sind.
+Auch Menschen, die noch nie mit einer psychischen Erkrankung zu kämpfen hatten, dürften diesen Text mit Gewinn lesen. Er verdeutlicht, wie kostbar und verletzlich psychische Stabilität ist — und wie sehr sie von emotionalen Voraussetzungen abhängt, die keineswegs selbstverständlich sind.
 
-Oft lese ich, Depressionen seien die Folge eines entgleisten Hirnstoffwechsels. Doch die entscheidende Frage bleibt offen: Wodurch gerät ein Leben innerlich so aus dem Gleichgewicht, dass es entgleist? In meinem Fall führt die Antwort zurück zu traumatischen Kindheitserfahrungen. Mein Essay ist dennoch keine Anklageschrift. Ich habe meinen Eltern längst verziehen. Ich verurteile nicht. Ich versuche zu verstehen.
+Oft lese ich, Depressionen seien die Folge eines entgleisten Hirnstoffwechsels. Dabei bleibt für mich die entscheidende Frage offen: Wodurch gerät ein Leben innerlich so aus dem Gleichgewicht, dass es entgleist? In meiner Biografie liegt die Antwort in traumatischen Kindheitserfahrungen. Dieser Essay ist aber keine Anklageschrift gegen meine Eltern. Ich habe ihnen längst verziehen. Ich verurteile nicht. Ich versuche zu verstehen.
 
-Indem ich meine Lebensgeschichte offenlege, teile ich mein mühsam erworbenes Verständnis mit dir.
+Mein mühsam erworbenes Verständnis möchte ich mit dir teilen.
 
 ## Den Essay lesen
 
