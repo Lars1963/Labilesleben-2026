@@ -28,7 +28,7 @@ Vor meinem 35. Lebensjahr jagte eine depressive Episode die nächste. Dazwischen
 
 Es folgten zwanzig Jahre, die ich lange für unmöglich gehalten hatte: Arbeit, finanzielle Sicherheit, Freundschaften, Reisen und zwölf Marathons. Trauma, Depression und Narzissmus rückten scheinbar in weite Ferne. Besonders glücklich war ich oft an gewöhnlichen Abenden, wenn ich nach der Arbeit im Dunkeln zu einem langen Lauf aufbrach und erschöpft nach Hause kam. Wunderbare Frauen kreuzten meinen Weg. Warum ich mich nie dauerhaft gebunden habe, erzähle ich in diesem Essay.
 
-Eine schwere Depression nach einer Trennung unterbrach diese stabile Zeit im Jahr 2015. Danach zog es mich allein nach Nepal. Drei hohe Himalaya-Pässe, eine grandiose Landschaft, mein Rucksack auf dem Rücken, der Körper am Limit – selten habe ich mich dem Leben so nahe gefühlt.
+Eine schwere Depression nach einer Trennung unterbrach diese stabile Zeit im Jahr 2015. Danach zog es mich allein nach Nepal. Drei hohe Himalaya-Pässe, eine grandiose Landschaft, mein Rucksack auf dem Rücken, der Körper am Limit – selten habe ich mich so lebendig gefühlt.
 
 Die Depression von 2024 veränderte schließlich alles. Ich gab meinen Beruf auf und begann eine Psychoanalyse. Aus ihr entstand dieser Essay. Heute muss ich mich mit 62 Jahren noch einmal neu erfinden. In Kürze beginne ich eine Ausbildung zum Genesungsbegleiter. Wie stabil meine Zukunft sein wird, weiß ich nicht.
 
