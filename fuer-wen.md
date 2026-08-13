@@ -26,7 +26,7 @@ Der Essay wendet sich an Betroffene, ihre Angehörigen und Freunde sowie an Fach
 
 Auch Menschen, die noch nie mit einer psychischen Erkrankung zu kämpfen hatten, dürften diesen Text mit Gewinn lesen. Er verdeutlicht, wie kostbar und verletzlich psychische Stabilität ist — und wie sehr sie von emotionalen Voraussetzungen abhängt, die keineswegs selbstverständlich sind.
 
-Oft lese ich, Depressionen seien die Folge eines entgleisten Hirnstoffwechsels. Aber wodurch gerät ein Leben innerlich so aus den Fugen, dass es entgleist? Bei mir liegt die Antwort in traumatischen Kindheitserfahrungen. Dennoch ist dieser Essay keine Anklageschrift gegen meine Eltern. Ich habe ihnen längst verziehen. Ich verurteile nicht. Ich versuche zu verstehen.
+Oft lese ich, Depressionen seien die Folge eines entgleisten Hirnstoffwechsels. Aber wodurch gerät ein Leben innerlich so aus den Fugen, dass es entgleist? Bei mir waren es traumatische Kindheitserfahrungen. Dennoch ist dieser Essay keine Anklageschrift. Ich habe meinen drei Elternteilen längst verziehen. Ich verurteile nicht. Ich versuche zu verstehen.
 
 Mein mühsam erworbenes Wissen möchte ich mit dir teilen.
 
