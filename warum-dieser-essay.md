@@ -20,7 +20,7 @@ heroCountry: "Nepal"
 heroLocation: "Khumbu Gletscher (4.800 m)"
 ---
 
-Mit diesem autobiographischen Essay erobere ich mir meine Lebensgeschichte zurück.
+Mit diesem Essay erobere ich mir meine Lebensgeschichte zurück.
 
 Bislang wurden die zentralen Kapitel meines Lebens von der Depression geschrieben. Immer wieder ergreift sie von mir Besitz. Immer wieder gerät mein Leben aus den Fugen. Aber jetzt ist Schluss. Jetzt stelle ich sie zur Rede – auch wenn sie im Moment lieber schweigt.
 
