@@ -16,7 +16,7 @@ heroImage: "/images/1.jpg"
 
 heroAlt: "Zwei Wanderer in einer weiten felsigen Hochgebirgslandschaft"
 
-heroQuote: "Verstehen beginnt mit dem Mut, den eigenen Weg anzuschauen."
+heroQuote: "Verstehen beginnt mit dem Mut, den eigenen Weg zu reflektieren."
 
 heroCountry: "Nepal"
 
