@@ -24,7 +24,7 @@ Mit diesem Essay erobere ich mir meine Lebensgeschichte zurück.
 
 Bislang wurden die zentralen Kapitel meines Lebens von der Depression geschrieben. Immer wieder ergreift sie von mir Besitz. Immer wieder gerät mein Leben aus den Fugen. Aber jetzt ist Schluss. Jetzt stelle ich sie zur Rede – auch wenn sie im Moment lieber schweigt.
 
-In diesem Text hole ich die Depression aus ihrem Versteck und schaue ihr so lange ins Gesicht, bis ihre innere Logik sichtbar wird. Ich will verstehen, wie sie sich tarnt, wie sie mich immer wieder erreicht und warum sie trotzdem nicht das letzte Wort haben darf.
+Mit diesem Text hole ich die Depression aus ihrem Versteck und schaue ihr so lange ins Gesicht, bis ihre innere Logik sichtbar wird. Ich will verstehen, wie sie sich tarnt, wie sie mich immer wieder erreicht und warum sie trotzdem nicht das letzte Wort haben darf.
 
 Ich will die Wahrheit wissen, auch wenn sie schmerzt.
 

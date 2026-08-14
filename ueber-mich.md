@@ -13,7 +13,7 @@ heroImage: "/images/4.jpg"
 
 heroAlt: "Der Autor auf Gokyo Ri"
 
-heroQuote: Gegen die Depression: Ein hart erarbeiteter Glücksmoment.
+heroQuote: "Gegen die Depression: Ein hart erarbeiteter Glücksmoment."
 
 heroCountry: "Nepal"
 
