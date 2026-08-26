@@ -20,15 +20,15 @@ heroCountry: "Nepal"
 heroLocation: "Gokyo Ri (5.300 m)"
 ---
 
-Im Grunde bin ich ein glücklicher Mensch. Denn das Leben hat mir geschenkt, wonach ich mich am meisten gesehnt habe: intensive Erfahrungen.
+Im Grunde bin ich ein glücklicher Mensch, weil mir das Leben intensive Erfahrungen geschenkt hat.
 
-Ich habe intensive körperliche Herausforderungen geliebt, z. B. lange Tempodauerläufe bei Regen und Kälte, Trekkingtouren durch Korsika und den Himalaya, das Gefühl, meinen Körper an seine Grenzen zu bringen. Gleichzeitig habe ich fast die Hälfte meines Lebens mit Depressionen gekämpft. Wenn das die andere Seite der Intensität war, hätte ich auf sie gerne verzichtet.
+Ich habe körperliche Herausforderungen geliebt, z. B. lange Tempodauerläufe bei Regen und Kälte, Trekkingtouren durch Korsika und den Himalaya, das Gefühl, meinen Körper an seine Grenzen zu bringen. Gleichzeitig habe ich fast die Hälfte meines Lebens mit Depressionen gekämpft. Wenn das die andere Seite der Intensität war, hätte ich auf sie gerne verzichtet.
 
 Vor meinem 35. Lebensjahr jagte eine depressive Episode die nächste. Dazwischen lagen narzisstische Phasen, in denen ich nur scheinbar aufblühte. Nach zwei Suizidversuchen schien meine Lage hoffnungslos zu sein. Erst ein Klinikaufenthalt im Jahr 1999 brachte die Wende. Zum ersten Mal gelang es mir, psychisch stabil zu werden und ein normales Berufsleben aufzubauen.
 
 Es folgten zwanzig Jahre, die ich lange für unmöglich gehalten hatte: Arbeit, finanzielle Sicherheit, Freundschaften, Reisen und zwölf Marathons. Trauma, Depression und Narzissmus rückten scheinbar in weite Ferne. Besonders glücklich war ich oft an gewöhnlichen Abenden, wenn ich nach der Arbeit im Dunkeln zu einem langen Tempodauerlauf aufbrach und erschöpft nach Hause kam.
 
-Wunderbare Frauen kreuzten meinen Weg; auch darüber war ich glücklich. Warum ich mich dennoch nie dauerhaft binden konnte, erzähle ich in diesem Essay. Eine schwere Depression nach einer Trennung unterbrach diese stabile Zeit im Jahr 2015. Danach zog es mich allein nach Nepal. Drei hohe Himalaya-Pässe, eine grandiose Landschaft, mein Rucksack auf dem Rücken, der Körper am Limit – selten habe ich mich so lebendig gefühlt.
+Wunderbare Frauen kreuzten meinen Weg; auch darüber war ich glücklich. Warum ich mich nie dauerhaft binden konnte, erzähle ich in diesem Essay. Eine schwere Depression nach einer Trennung unterbrach diese stabile Zeit im Jahr 2015. Danach zog es mich allein nach Nepal. Drei hohe Himalaya-Pässe, eine grandiose Landschaft, mein Rucksack auf dem Rücken, der Körper am Limit – selten habe ich mich so lebendig gefühlt.
 
 Die Depression von 2024 veränderte schließlich alles. Ich gab meinen Beruf auf und begann eine Psychoanalyse. Aus ihr entstand dieser Essay. Heute muss ich mich mit 62 Jahren noch einmal neu erfinden. In Kürze beginne ich eine Ausbildung zum Genesungsbegleiter. Wie stabil meine Zukunft sein wird, weiß ich nicht.
 
