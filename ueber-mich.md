@@ -28,11 +28,11 @@ Vor meinem 35. Lebensjahr jagte eine depressive Episode die nächste. Dazwischen
 
 Es folgten zwanzig Jahre, die ich lange für unmöglich gehalten hatte: Arbeit, finanzielle Sicherheit, Freundschaften, Reisen und zwölf Marathons. Trauma, Depression und Narzissmus rückten scheinbar in weite Ferne. Besonders glücklich war ich oft an gewöhnlichen Abenden, wenn ich nach der Arbeit im Dunkeln zu einem langen Tempodauerlauf aufbrach und erschöpft nach Hause kam.
 
-Allerdings weiß ich heute, dass ich auch in dieser stabilen Phase nicht wirklich "psychisch gesund" war. Es war mir lediglich gelungen, meine depressive Seite durch eine narzisstische Inszenierung erfolgreich zu überdecken. Aber das ist eine späte Erkenntnis aus der Psychoanalyse. Ich habe dieses Leben, das ich führte, sehr genossen.
+Allerdings weiß ich heute, dass ich auch in dieser stabilen Phase nicht wirklich "gesund" war. Es war mir lediglich gelungen, meine depressive Seite durch eine narzisstische Inszenierung erfolgreich zu überdecken. Aber das ist eine späte Erkenntnis aus der Psychoanalyse. Ich habe mein Leben trotzdem sehr genossen.
 
-Wunderbare Frauen kreuzten meinen Weg; auch darüber war ich glücklich. Warum ich mich nie dauerhaft binden konnte, erzähle ich in diesem Essay. Eine schwere Depression nach einer Trennung unterbrach diese stabile Zeit im Jahr 2015. Danach zog es mich allein nach Nepal. Drei hohe Himalaya-Pässe, eine grandiose Landschaft, mein Rucksack auf dem Rücken, der Körper am Limit – selten habe ich mich so lebendig gefühlt.
+Wunderbare Frauen kreuzten meinen Weg; auch darüber war ich glücklich. Warum ich eine dauerhafte Bindung stets vermieden habe, erzähle ich in diesem Essay. Eine schwere Depression nach einer Trennung unterbrach diese stabile Zeit im Jahr 2015. Danach zog es mich allein nach Nepal. Drei hohe Himalaya-Pässe, eine grandiose Landschaft, mein Rucksack auf dem Rücken, der Körper am Limit – selten habe ich mich so lebendig gefühlt.
 
-Die Depression von 2024 veränderte schließlich alles. Ich gab meinen Beruf auf und begann eine Psychoanalyse. Aus ihr entstand dieser Essay. Heute muss ich mich mit 62 Jahren noch einmal neu erfinden. In Kürze beginne ich eine Ausbildung zum Genesungsbegleiter. Wie stabil meine Zukunft sein wird, weiß ich nicht.
+Die Depression von 2024 veränderte schließlich alles. Die narzisstische Inszenierung brach zusammen und der depressive Kern kam wieder zum Vorschein. Ich gab meinen Beruf auf und begann eine Psychoanalyse. Aus ihr entstand dieser Essay. Heute muss ich mich mit 62 Jahren noch einmal neu erfinden. In Kürze beginne ich eine Ausbildung zum Genesungsbegleiter. Wie stabil meine Zukunft sein wird, weiß ich nicht.
 
 Ich habe Angst.<br>
 Und ich freue mich darauf.
