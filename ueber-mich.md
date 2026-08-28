@@ -30,7 +30,7 @@ Es folgten zwanzig Jahre, die ich lange für unmöglich gehalten hatte: Arbeit, 
 
 Wunderbare Frauen kreuzten meinen Weg. Warum ich keine dauerhafte Bindung eingegangen bin, erzähle ich in diesem Essay. Eine schwere Depression nach einer Trennung unterbrach diese stabile Zeit im Jahr 2015. Danach zog es mich allein nach Nepal. Drei hohe Himalaya-Pässe, eine grandiose Landschaft, mein Rucksack auf dem Rücken, der Körper am Limit – selten habe ich mich so lebendig gefühlt.
 
-Die Depression von 2024 veränderte schließlich alles. Die narzisstische Inszenierung, die mich all die Jahre getragen hatte, brach in sich zusammen. Ich gab meinen Beruf auf und begann eine Psychoanalyse. Aus ihr entstand dieser Essay. Heute muss ich mich mit 62 Jahren noch einmal neu erfinden. In Kürze beginne ich eine Ausbildung zum Genesungsbegleiter. Wie stabil meine Zukunft sein wird, weiß ich nicht.
+Die Depression von 2024 veränderte schließlich alles. Ich gab meinen Beruf auf und begann eine Psychoanalyse. Aus ihr entstand dieser Essay. Heute muss ich mich mit 62 Jahren noch einmal neu erfinden. In Kürze beginne ich eine Ausbildung zum Genesungsbegleiter. Wie stabil meine Zukunft sein wird, weiß ich nicht.
 
 Ich habe Angst.<br>
 Und ich freue mich darauf.
