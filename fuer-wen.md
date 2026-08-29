@@ -34,6 +34,6 @@ Dieses mühsam erworbene Verständnis möchte ich mit dir teilen.
 
 Hier kannst du den kompletten Essay kostenfrei als PDF downloaden.
 
-<a class="download-button" href="/downloads/2026_labilesleben_download.pdf" download>
+<a class="download-button" href="/downloads/2026_labilesleben_download_2.pdf" download>
   PDF herunterladen
 </a>
