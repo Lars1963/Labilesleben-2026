@@ -3,4 +3,10 @@ permalink: /sitemap.xml
 layout: null
 eleventyExcludeFromCollections: true
 ---
-{% sitemap collections.all %}
+{% set pdf = {
+  "url": "/downloads/2026_labilesleben_download_2.pdf",
+  "date": "2026-10-09",
+  "data": {}
+} %}
+{% set eintraege = collections.all.concat([pdf]) %}
+{% sitemap eintraege %}
